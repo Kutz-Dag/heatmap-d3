@@ -4,7 +4,7 @@
 Creating a program that takes a large dataset and displays it as a Heat Map using D3.js
 
 ### The bar chart should look similar to this:
-![image](#)
+![image](https://assets.codepen.io/5744159/internal/screenshots/pens/ExXKNLe.default.png?fit=cover&format=auto&ha=false&height=360&quality=75&v=2&version=1630529925&width=640)
 
 ### I used these languages to create this project
 ```html
