@@ -27,4 +27,4 @@ Creating a program that takes a large dataset and displays it as a Heat Map usin
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
-[*Bar Chart in D3* by Kutz](https://codepen.io/kutzz/pen/PoVbONN)
+[*Heat Map in D3* by Kutz](https://codepen.io/kutzz/pen/PoVbONN)
