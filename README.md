@@ -23,7 +23,7 @@ Creating a program that takes a large dataset and displays it as a Heat Map usin
 * The Heat Map had to have a list of functions.
 * One of the functions was that if the dataset is altered or modified, then the Heat Map would render that modification (if it is still in a dataset format).
 * The other function was that when hovering over areas on the Heat Map, it will display a tooltip providing a description (a short one) of the hovered area. The description should be linked to the dataset's ID.
-* Another aim of this project was to produce axes for the bar chart.
+* Another aim of this project was to produce axes for the Heat Map.
 
 ## CodePen Project Link
 You can view my project on CodePen using this link:
