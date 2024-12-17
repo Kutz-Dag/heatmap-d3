@@ -38,7 +38,7 @@
 
 - [x] My heat map should have cells that align with the corresponding year on the x-axis.
 
-- [x]: My heat map should have multiple tick labels on the y-axis with the full month name.
+- [x] My heat map should have multiple tick labels on the y-axis with the full month name.
 
 - [x] My heat map should have multiple tick labels on the x-axis with the years between 1754 and 2015.
 
